@@ -16,5 +16,3 @@ Our pre-print is online here:
 ### Data and Analysis
 
 A reproducible research compendium containing all data and analysis code for this project can be found at: <https://github.com/danielpearson90/vmacfeaturesearch/>. The Open Science Framework (OSF) project can be found at: <https://osf.io/yrdzv/>.
-
-### License
