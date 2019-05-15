@@ -10,7 +10,7 @@ Our pre-print is online here:
 ### Contents
 
 - [:page_with_curl: VMC_DistSupp_EG.m](VMC_DistSupp_EG.m): MATLAB scipt used to initiate the experiment.
-- [:file\_folder: analysis](/functions): Contains MALTAB functions used to run the experimental script.
+- [:file\_folder: functions](/functions): Contains MALTAB functions used to run the experimental script.
 - [:file\_folder: images](/images): Contains some image (.jpg) files used for presenting the instructions to participants.
 
 ### Data and Analysis
